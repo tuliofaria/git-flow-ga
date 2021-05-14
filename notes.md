@@ -15,7 +15,7 @@ Bootstrap
 - features branches
 - hotfix
 
-2.
+2. a
 
 - master (write lock) - promotion (production)
 - stage (write lock) - integration branch
